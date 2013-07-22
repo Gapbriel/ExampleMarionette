@@ -1,0 +1,138 @@
+#headerRow {
+    background: steelblue;
+}
+
+#searchView {
+    height: 55px;
+    line-height: 55px;
+}
+
+aside {
+    background: lightsteelblue;
+    min-height: 1029px  !important;
+}
+
+footer {
+    border-top: 3px solid darkblue;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-bottom: 33px;
+}
+
+a{
+  color: black;
+}
+
+.muted{
+    color: #808080;
+    font-size: 17px;
+}
+
+#searchView .btn{
+	margin-top: 13px;
+}
+
+#imgId{
+    height: 20px;
+    width: 18px;
+}
+
+/**************FORM CONTACT***************************/
+
+#contact-form {  
+   background-color: lightsteelblue; 
+   width: 465px;  
+   padding: 20px;  
+   margin: 50px auto;  
+   border-radius: 15px;    
+   -moz-border-radius: 15px;  
+   -webkit-border-radius: 15px;  
+} 
+  
+#contact-form input,   
+#contact-form select,   
+#contact-form textarea,   
+#contact-form label {  
+   font-size: 15px;  
+   margin-bottom: 2px;
+   font-family: Arial, san-serif;
+}  
+  
+#contact-form input,   
+#contact-form select,   
+#contact-form textarea {  
+   width: 450px;
+   background: #fff;
+   border: 0; 
+   -moz-border-radius: 5px;  
+   -webkit-border-radius: 5px;  
+   border-radius: 5px;
+   margin-bottom: 25px;  
+   padding: 5px;  
+}  
+  
+#contact-form input:focus,   
+#contact-form select:focus,   
+#contact-form textarea:focus {  
+   background-color: #E5E6E7; 
+}  
+  
+#contact-form textarea {  
+   height: 150px;   
+}  
+
+#contact-form #submit {  
+   width: 450px;   
+   color: #000;  
+   border: none;  
+   background-color: steelblue;
+}  
+  
+#contact-form #submit:hover {  
+   background-color: #CCCCCC;  
+   color: #000000; 
+}
+
+input:required, textarea:required {  
+   box-shadow: none;
+   -moz-box-shadow: none;  
+   -webkit-box-shadow: none;  
+   -o-box-shadow: none;  
+} 
+
+#contact-form .required {  
+   font-weight:bold;  
+   color: #000000;      
+}
+
+#failure, #success {
+   color: #6EA070; 
+   display:none;  
+}
+/****************************************/
+
+.imgGlobant img{
+    height: 550px;
+}
+
+
+/*#submitButton{
+    height: 38px;
+    width: 461px;
+}*/
+
+.span8 h1 a {
+  padding-left: 16px;
+}
+
+.search-query,
+.inputQuery
+ {
+    margin-top: 10px !important;
+}
+
+.btn,
+.btn-Table-users{
+   margin-top: 10px!important;
+}

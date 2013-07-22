@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "firstname": "Marcelo",
+    "lastname": "Marzo",
+    "pws": 32,
+	"email": "marceloM@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "San Martin"
+  },
+  {
+    "id": "2",
+    "firstname": "Gabriel",
+    "lastname": "Panebianco",
+    "pws": 32,
+	"email": "Gabrielg@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "Mitre"
+  },
+  {
+    "id": "3",
+    "firstname": "Jose",
+    "lastname": "Macchi",
+    "pws": 32,
+	"email": "JoseM@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "San Lorenzo"
+  },
+  {
+    "id": "4",
+    "firstname": "Andres",
+    "lastname": "Vicente",
+    "pws": 32,
+	"email": "AndresV@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "9 de Julio"
+  },
+  {
+    "id": "5",
+    "firstname": "Martin",
+    "lastname": "Granate",
+    "pws": 32,
+	"email": "MartinG@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "Rodriguez"
+  },
+  {
+    "id": "6",
+    "firstname": "Diego",
+    "lastname": "Montenegro",
+    "pws": 32,
+	"email": "DiegoM@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "San Martin"
+  },
+  {
+    "id": "7",
+    "firstname": "Leo",
+    "lastname": "Messi",
+    "pws": 26,
+	"email": "LeoMessi@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "Peron"
+  },
+  {
+    "id": "8",
+    "firstname": "Xavi",
+    "lastname": "Hernandez",
+    "pws": 32,
+	"email": "XaviH@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "Belgrano"
+  },
+  {
+    "id": "9",
+    "firstname": "Andres",
+    "lastname": "Iniesta",
+    "pws": 28,
+	"email": "Iniesta@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "San Martin"
+  },
+  {
+    "id": "10",
+    "firstname": "Diego",
+    "lastname": "Montenegro",
+    "pws": 32,
+	"email": "fededinelli@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "San Martin"
+  },
+  {
+    "id": "11",
+    "firstname": "Juan",
+    "lastname": "Granillo",
+    "pws": 38,
+	"email": "JuanG@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "San Martin"
+  },
+  {
+    "id": "12",
+    "firstname": "Diego",
+    "lastname": "Montenegro",
+    "pws": 32,
+	"email": "fededinelli@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "San Martin"
+  },
+  {
+    "id": "13",
+    "firstname": "Diego",
+    "lastname": "Latorre",
+    "pws": 32,
+	"email": "DiegoL@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "San Martin"
+  },
+  {
+    "id": "14",
+    "firstname": "Manteca",
+    "lastname": "Martinez",
+    "pws": 32,
+	"email": "MartinezM@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "AV Peron"
+  },
+  {
+    "id": "15",
+    "firstname": "Carlos",
+    "lastname": "Tevez",
+    "pws": 32,
+	"email": "TevezC@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "San Martin"
+  },
+  {
+    "id": "16",
+    "firstname": "Martin",
+    "lastname": "Palermo",
+    "pws": 32,
+	"email": "MartinP@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "San Martin"
+  },
+  {
+    "id": "17",
+    "firstname": "Roman",
+    "lastname": "Riquelme",
+    "pws": 32,
+	"email": "RomanR@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "Mitre"
+  },
+  {
+    "id": "18",
+    "firstname": "Diego",
+    "lastname": "Maradona",
+    "pws": 32,
+	"email": "DiegoM@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "San Martin"
+  },
+  {
+    "id": "19",
+    "firstname": "Soña",
+    "lastname": "Sarate",
+    "pws": 32,
+	"email": "SoñaS@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "Mitre"
+  },
+  {
+    "id": "20",
+    "firstname": "Mick",
+    "lastname": "Jagger",
+    "pws": 32,
+	"email": "MickJ@hotmail.com",
+	"dni": "28.596.666",
+	"cuit": "20-28596666-6",
+	"address": "Sarmiento"
+  }
+]
